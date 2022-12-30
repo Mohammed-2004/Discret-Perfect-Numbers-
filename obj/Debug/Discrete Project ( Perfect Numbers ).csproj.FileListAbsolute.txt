@@ -1,0 +1,8 @@
+C:\Users\Mohammed Ibrahim\source\repos\Discrete Project ( Perfect Numbers )\Discrete Project ( Perfect Numbers )\bin\Debug\Discrete Project ( Perfect Numbers ).exe.config
+C:\Users\Mohammed Ibrahim\source\repos\Discrete Project ( Perfect Numbers )\Discrete Project ( Perfect Numbers )\bin\Debug\Discrete Project ( Perfect Numbers ).exe
+C:\Users\Mohammed Ibrahim\source\repos\Discrete Project ( Perfect Numbers )\Discrete Project ( Perfect Numbers )\bin\Debug\Discrete Project ( Perfect Numbers ).pdb
+C:\Users\Mohammed Ibrahim\source\repos\Discrete Project ( Perfect Numbers )\Discrete Project ( Perfect Numbers )\obj\Debug\Discrete Project ( Perfect Numbers ).csproj.AssemblyReference.cache
+C:\Users\Mohammed Ibrahim\source\repos\Discrete Project ( Perfect Numbers )\Discrete Project ( Perfect Numbers )\obj\Debug\Discrete Project ( Perfect Numbers ).csproj.SuggestedBindingRedirects.cache
+C:\Users\Mohammed Ibrahim\source\repos\Discrete Project ( Perfect Numbers )\Discrete Project ( Perfect Numbers )\obj\Debug\Discrete Project ( Perfect Numbers ).csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Ibrahim\source\repos\Discrete Project ( Perfect Numbers )\Discrete Project ( Perfect Numbers )\obj\Debug\Discrete Project ( Perfect Numbers ).exe
+C:\Users\Mohammed Ibrahim\source\repos\Discrete Project ( Perfect Numbers )\Discrete Project ( Perfect Numbers )\obj\Debug\Discrete Project ( Perfect Numbers ).pdb
